@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial App</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>Financial App</h1>
+
+    <section id="stocks">
+        <h2>Tech Stocks</h2>
+        <div>
+            <input type="text" id="new-stock-symbol" placeholder="Symbol">
+            <input type="text" id="new-stock-name" placeholder="Name">
+            <input type="number" id="new-stock-price" placeholder="Price">
+            <button id="add-stock-button">Add Stock</button>
+        </div>
+        <ul id="stock-list">
+        </ul>
+    </section>
+
+    <section id="portfolio">
+        <h2>Investments</h2>
+        <div>
+            <input type="text" id="new-portfolio-symbol" placeholder="Symbol">
+            <input type="number" id="new-portfolio-shares" placeholder="Shares">
+            <button id="add-portfolio-button">Add to Portfolio</button>
+        </div>
+        <div id="chart-container">
+            <canvas id="portfolio-chart" width="200" height="100"></canvas>
+        </div>
+        <ul id="portfolio-list">
+        </ul>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

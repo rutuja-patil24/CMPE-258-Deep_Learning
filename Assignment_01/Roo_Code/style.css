@@ -1,0 +1,70 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #4466aa;
+}
+
+#stocks, #portfolio {
+    margin-bottom: 30px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#stock-list, #portfolio-list {
+    list-style: none;
+    padding: 0;
+}
+
+#stock-list li, #portfolio-list li {
+    padding: 8px;
+    border-bottom: 1px solid #eee;
+}
+
+#stock-list li:last-child, #portfolio-list li:last-child {
+    border-bottom: none;
+}
+
+input[type="text"], input[type="number"] {
+  padding: 8px;
+  margin-right: 5px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+button {
+  padding: 8px 12px;
+  background-color: #4466aa;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #335599;
+}
+
+.delete-stock, .delete-portfolio {
+    background-color: #cc0000;
+    margin-left: 10px;
+}
+
+.delete-stock:hover, .delete-portfolio:hover {
+    background-color: #aa0000;
+}
+
+#chart-container {
+    max-width: 300px; /* Increased max-width */
+    max-height: 150px; /* Increased max-height */
+}
+
+#portfolio-chart {
+    width: 100%; /* Make the chart responsive within its container */
+    max-width: 100%; /* Ensure it doesn't overflow the container */
+    max-height: 100%;
+}
