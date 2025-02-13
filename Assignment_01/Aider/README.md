@@ -1,20 +1,19 @@
-# Financial App
+# To-Do List App
 
 ## Overview
-This **Financial App** helps users track tech stocks and manage their investment portfolio. It allows users to:
-- Add and view tech stocks with their symbols, names, and prices.
-- Manage an investment portfolio by adding stocks with specified shares.
-- Visualize the portfolio with a **bar chart** using **Chart.js**.
-- Delete stocks and portfolio entries dynamically.
+The **To-Do List App** is a simple task management application built using **React.js**. It allows users to add, view, and delete tasks dynamically. The app interacts with a backend API using **Axios** to fetch and manage tasks.
 
 ## Features
-- **Stock Management**: Add and view a list of technology stocks.
-- **Investment Portfolio**: Track shares and total portfolio value.
-- **Data Visualization**: View portfolio breakdown with an interactive **bar chart**.
-- **Dynamic UI Updates**: Add, edit, and delete stocks or investments in real-time.
+- **Add Tasks** – Users can input new tasks.
+- **View Task List** – Displays a list of all tasks.
+- **Delete Tasks** – Users can remove tasks from the list.
+- **API Integration** – Uses **Axios** to interact with a backend API (`http://localhost:5000/tasks`).
+- **User-Friendly Interface** – Styled using CSS for an interactive experience.
 
 ## Technologies Used
-- **HTML** – Provides the structure of the app.
-- **CSS** – Styles the UI and enhances design.
-- **JavaScript (Vanilla JS)** – Handles stock and portfolio management, event handling, and updating the UI dynamically.
-- **Chart.js** – Generates investment portfolio visualizations.
+- **React.js** – JavaScript library for building UI components.
+- **Axios** – For making API requests to the backend.
+- **CSS** – Styles the user interface.
+- **React DOM** – Renders React components in the browser.
+- **Node.js & Express (Expected Backend)** – Handles CRUD operations for tasks.
+
