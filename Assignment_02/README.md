@@ -8,7 +8,7 @@ This repository contains three detailed Colab notebooks demonstrating deep learn
 ---
 
 ### Classification Task: sentiment analysis
-- Colab Link: https://colab.research.google.com/drive/1O7Q1ydcCji2vvWdk5AGR80Qlw7OyQocJ?usp=sharing
+- Colab Link: https://colab.research.google.com/drive/1cFSfBrjpPxJIn-LXb9o0_dofZQhuY8ma?usp=sharing
 - YouTube Link: https://youtu.be/jH5bgoUupoY
   
 ### Regression Task: Stock price prediction.
