@@ -11,7 +11,7 @@ This repository contains various AI-driven and full-stack development projects u
 
 ### Task:
 - Use **DeepSeek Janus** to generate **interesting images** from text prompts.
-- Colab Link: https://colab.research.google.com/drive/1O7Q1ydcCji2vvWdk5AGR80Qlw7OyQocJ?usp=sharing
+- Colab Link: https://colab.research.google.com/drive/188iDHSKTu54GVR4xZMjBLim2amtu_qXk?usp=sharing
   
 - Provide **an interesting image** as input and let DeepSeek Janus generate **insightful information** about it.
 - Colab Link: https://colab.research.google.com/drive/1U0UdPVKEkgk4UZ5DYh3kiDgcjYt8u16N?usp=sharing
