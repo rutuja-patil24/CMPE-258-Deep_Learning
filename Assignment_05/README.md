@@ -43,7 +43,7 @@ This repository contains AI-based experiments using **Google's Teachable Machine
 
 #### 🟢 **Easy Model**
 - **Image-based Colab Link:** https://colab.research.google.com/drive/1xhIdKUH0QUIv8svBZdIHvtO82mNvX0Xg?usp=sharing
-- **Text-based Colab Link:** [Insert Colab Link]
+- **Text-based Colab Link:** https://colab.research.google.com/drive/1pTvs9Z_MdUB7lZdD--2VoTpq8DQdgKBA?usp=sharing
   
 
 #### 🟡 **Intermediate Model**
