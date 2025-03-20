@@ -1,4 +1,4 @@
-# Assignment - Teachable Machine & Keras Hub
+# Assignment 05 - Teachable Machine & Keras Hub
 
 ## Overview
 
@@ -10,25 +10,22 @@ This repository contains AI-based experiments using **Google's Teachable Machine
 
 ### Task:
 - Implement **three unique models** using [Google’s Teachable Machine](https://teachablemachine.withgoogle.com/).
-- Explore different modalities: **text, image, and video-based machine learning models**.
+- Explore different modalities: **audio, image, and video-based machine learning models**.
 - Train and test models using **custom datasets**.
 
 ### Implementations:
 
-#### 🖼️ **Image Classification Model**
+####  **Image Classification Model**
 - **Objective:** Train a model to classify different objects based on images.
-- **Colab Link:** [Insert Colab Link]
-- **Demo Video:** [Insert YouTube Link]
 
-#### 🔤 **Text Classification Model**
+####  **Audio Classification Model**
 - **Objective:** Build a model that can classify text inputs based on predefined categories.
-- **Colab Link:** [Insert Colab Link]
-- **Demo Video:** [Insert YouTube Link]
 
-#### 🎥 **Video-based Action Recognition Model**
+####  **Video-based Action Recognition Model**
 - **Objective:** Use Teachable Machine to classify different human activities in a video.
-- **Colab Link:** [Insert Colab Link]
-- **Demo Video:** [Insert YouTube Link]
+
+  
+#### **Teachable Machine Projects Video:** [Insert YouTube Link]
 
 ---
 
@@ -44,27 +41,28 @@ This repository contains AI-based experiments using **Google's Teachable Machine
 
 ### Implementations:
 
-#### 🟢 **Easy Model (Image-based)**
-- **Objective:** Implement a basic image classification model using **pre-trained Keras Hub models**.
-- **Colab Link:** [Insert Colab Link]
-- **Demo Video:** [Insert YouTube Link]
+#### 🟢 **Easy Model**
+- **Image-based Colab Link:** [Insert Colab Link]
+- **Text-based Colab Link:** [Insert Colab Link]
+  
 
-#### 🟡 **Intermediate Model (Text-based)**
-- **Objective:** Implement a **sentiment analysis model** using a text-based Keras Hub model.
-- **Colab Link:** [Insert Colab Link]
-- **Demo Video:** [Insert YouTube Link]
+#### 🟡 **Intermediate Model**
+- **Image-based Colab Link:** https://colab.research.google.com/drive/1Z3-NraFy_VVIm8YL8sNzk7UEhz0DaOt8?usp=sharing
+  
+- **Text-based Colab Link:** https://colab.research.google.com/drive/19XgtrMIBuGVikxUN8hdXDYzHEIA2G-CQ?usp=sharing
 
-#### 🔴 **Advanced Model (Multi-Modal)**
-- **Objective:** Implement a model that takes **both images and text** as input for classification.
-- **Colab Link:** [Insert Colab Link]
-- **Demo Video:** [Insert YouTube Link]
+#### 🔴 **Advanced Model**
+- **Image-based Colab Link:** [Insert Colab Link]
+- **Text-based Colab Link:** https://colab.research.google.com/drive/1lZIuyP740MhYoAI517lP3vl9APxlV4eR?usp=sharing
 
-#### 🔵 **Expert Model (Custom Training & Fine-tuning)**
-- **Objective:** Train a **custom deep learning model** using transfer learning and fine-tune it for higher accuracy.
-- **Colab Link:** [Insert Colab Link]
-- **Demo Video:** [Insert YouTube Link]
+#### 🔵 **Expert Model**
+- **Image-based Colab Link:** [Insert Colab Link]
+- **Text-based Colab Link:** [Insert Colab Link]
+
+
+#### **Keras Hub Video:** [Insert YouTube Link]
 
 ---
 
-## 📂 Project Structure
+
 
