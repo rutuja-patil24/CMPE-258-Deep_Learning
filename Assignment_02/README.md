@@ -22,7 +22,10 @@ This project uses a Deep Neural Network (DNN) to predict median house values in 
 - YouTube Link: https://youtu.be/enLNZbEJeFI
    
 ### Image Classification Task: CIFAR-10 image classification.
-- Colab Link: https://colab.research.google.com/drive/1O7Q1ydcCji2vvWdk5AGR80Qlw7OyQocJ?usp=sharing
+
+This project uses a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset into 10 categories, such as airplane, cat, and truck. The model is built using the Keras Functional API and trained with real-time tracking via Weights & Biases (W&B). It achieves high accuracy and is evaluated using a confusion matrix, classification report, ROC & PR curves, and sample predictions. Visualizations of training history and architecture are also included. This project demonstrates a complete deep learning pipeline for multi-class image classification.
+
+- Colab Link: https://colab.research.google.com/drive/1mkiI1amPvfsA8oZGeVGeWgHoZF5MscML?usp=sharing
 - YouTube Link: https://youtu.be/NkHWByY-6wc
 
 ---
