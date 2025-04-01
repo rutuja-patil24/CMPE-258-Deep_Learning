@@ -7,8 +7,14 @@ This repository contains two Colab notebooks demonstrating basic and advanced te
 
 ---
 
-### Tensor Basic Operations:
-- Colab Link: https://colab.research.google.com/drive/1ASp2L1EdQIETeAP0tbbY_BoHsSO8s4Z4?usp=sharing
+### Tensor Basic Operations :
+- 01_Basic_Tensor_Operations Colab Link: https://colab.research.google.com/drive/1ASp2L1EdQIETeAP0tbbY_BoHsSO8s4Z4?usp=sharing
+
+- 02_Tensor_Basics Colab Link : https://colab.research.google.com/drive/1F09RQ8RbxIAkg3f9znXfx_npmbGX6hGR?usp=sharing
+  
+
+
+
 - YouTube Link: https://youtu.be/jH5bgoUupoY
   
 ### Tensor Introduction:
