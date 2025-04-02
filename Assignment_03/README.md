@@ -11,6 +11,8 @@ This repository contains two Colab notebooks demonstrating basic and advanced te
 - 01_Basic_Tensor_Operations Colab Link: https://colab.research.google.com/drive/1ASp2L1EdQIETeAP0tbbY_BoHsSO8s4Z4?usp=sharing
 
 - 02_Tensor_Basics Colab Link : https://colab.research.google.com/drive/1F09RQ8RbxIAkg3f9znXfx_npmbGX6hGR?usp=sharing
+
+- 03_TensorFlow_Fundamentals Colab Link : https://colab.research.google.com/drive/1oC-uYw0tClA5AkFwYopobGtrokoFvVc3?usp=sharing
   
   
 ### Tensor Introduction:
