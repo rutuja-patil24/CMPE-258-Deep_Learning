@@ -1,3 +1,4 @@
 - a)_Neural_Network_Numpy : https://colab.research.google.com/drive/1yNOh4qjHn1kUQZp3wzEj4ONY1vLe6J0R?usp=sharing
 - B)_TensorFlow_From_Scratch_Using_Einsum : https://colab.research.google.com/drive/1vMS_ewUO12BzTtp_S3qvMDwQfM6SZ2xa?usp=sharing
 - c)_Neural_Network_PyTorch : - https://colab.research.google.com/drive/1A65oQDr54_d7CMW_B08z76s8nKZFf5FW?usp=sharing
+- d)_PyTorch_class_based_model : https://colab.research.google.com/drive/1Y1PXaXXs6FD9sJGq8ZxwHBKUZL1Xa4uL?usp=sharing
