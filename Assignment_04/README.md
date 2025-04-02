@@ -7,3 +7,4 @@
 - g)_TensorFlow_Functional_API: https://colab.research.google.com/drive/1-zr99vHS3moC9CW4RmCDWQN-1wo_cbPQ?usp=sharing
 - h)_TensorFlow_Subclassed_Model : https://colab.research.google.com/drive/1eNFp84oAiKM8tX_YGXySM0_DcroSmWJy?usp=sharing
 - i)_TensorFlow_Low_Level_Variants : https://colab.research.google.com/drive/10aI28q15XaWNOBn16nQ9RXH8Dc6jukOX?usp=sharing
+- j)_Tensorflow_not_using_high_level_api : https://colab.research.google.com/drive/1c2fB8jIp6Pxqew5wc1CGIbTxAXHZtvi9?usp=sharing
