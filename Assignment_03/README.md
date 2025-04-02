@@ -12,17 +12,13 @@ This repository contains two Colab notebooks demonstrating basic and advanced te
 
 - 02_Tensor_Basics Colab Link : https://colab.research.google.com/drive/1F09RQ8RbxIAkg3f9znXfx_npmbGX6hGR?usp=sharing
   
-
-
-
-- YouTube Link: https://youtu.be/jH5bgoUupoY
   
 ### Tensor Introduction:
 - Colab Link: https://colab.research.google.com/drive/1BEZoaOfoXyNrsPRMu_0qa6hJLFuNkT_8?usp=sharing
 - YouTube Link: https://youtu.be/enLNZbEJeFI
    
-### Tensor Operations:
-- Colab Link: https://colab.research.google.com/drive/1AFDnl3kEofGp_fl4xTgk9OTcCFqpxJpV?usp=sharing
+### Tensor Operations in Pytorch:
+- Colab Link: https://colab.research.google.com/drive/1qrvPcc_cKWxMvAdS09JZlQuxOQeodf99?usp=sharing
 - YouTube Link: https://youtu.be/NkHWByY-6wc
 
 ---
