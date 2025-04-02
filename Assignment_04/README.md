@@ -1,1 +1,1 @@
-
+- a)_Neural_Network_numpy : https://colab.research.google.com/drive/1yNOh4qjHn1kUQZp3wzEj4ONY1vLe6J0R?usp=sharing
