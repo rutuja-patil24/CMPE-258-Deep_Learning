@@ -3,6 +3,6 @@
 - c)_Neural_Network_PyTorch : - https://colab.research.google.com/drive/1A65oQDr54_d7CMW_B08z76s8nKZFf5FW?usp=sharing
 - d)_PyTorch_class_based_model : https://colab.research.google.com/drive/1Y1PXaXXs6FD9sJGq8ZxwHBKUZL1Xa4uL?usp=sharing
 - e)_PyTorch_Lightning – 3-Layer_Neural_Network_for_Non-Linear_Regression : https://colab.research.google.com/drive/1DOFFv_N8c5bSgILkZbim5LHtqnc60mCc?usp=sharing
-- f)_TensorFlow_Sequential_API.ipynb : https://colab.research.google.com/drive/17duWTetG06YmnrnpYwmJQRXIXcHPT8oF?usp=sharing
-- g)_TensorFlow_Functional_API.ipynb : https://colab.research.google.com/drive/1-zr99vHS3moC9CW4RmCDWQN-1wo_cbPQ?usp=sharing
-- 
+- f)_TensorFlow_Sequential_API: https://colab.research.google.com/drive/17duWTetG06YmnrnpYwmJQRXIXcHPT8oF?usp=sharing
+- g)_TensorFlow_Functional_API: https://colab.research.google.com/drive/1-zr99vHS3moC9CW4RmCDWQN-1wo_cbPQ?usp=sharing
+- h)_TensorFlow_Subclassed_Model : https://colab.research.google.com/drive/1eNFp84oAiKM8tX_YGXySM0_DcroSmWJy?usp=sharing
