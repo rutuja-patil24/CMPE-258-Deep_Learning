@@ -15,9 +15,7 @@ This repository contains two Colab notebooks demonstrating basic and advanced te
 - 03_TensorFlow_Fundamentals Colab Link : https://colab.research.google.com/drive/1oC-uYw0tClA5AkFwYopobGtrokoFvVc3?usp=sharing
   
   
-### Tensor Introduction:
-- Colab Link: https://colab.research.google.com/drive/1BEZoaOfoXyNrsPRMu_0qa6hJLFuNkT_8?usp=sharing
-- YouTube Link: https://youtu.be/enLNZbEJeFI
+
    
 ### Tensor Operations in Pytorch:
 - Colab Link: https://colab.research.google.com/drive/1qrvPcc_cKWxMvAdS09JZlQuxOQeodf99?usp=sharing
