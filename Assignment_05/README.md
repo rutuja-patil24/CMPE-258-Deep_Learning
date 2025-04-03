@@ -49,7 +49,10 @@ This repository contains AI-based experiments using **Google's Teachable Machine
 - **Text-based Colab Link:** https://colab.research.google.com/drive/14jqAY6g5GF9QTATecPhAuUSOJMZ8JSUP?usp=sharing
 
 
-#### **Keras Hub Video:** [Insert YouTube Link]
+#### **Keras Hub Video:** 
+
+- Image Based Models : [https://youtu.be/Foo4fYi7w9w]
+- Text Based Models : [https://youtu.be/zXSa2M1pnGM]
 
 ---
 
