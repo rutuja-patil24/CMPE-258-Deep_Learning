@@ -56,8 +56,8 @@ This repository contains AI-based experiments using **Google's Teachable Machine
 - **Text-based Colab Link:** https://colab.research.google.com/drive/1lZIuyP740MhYoAI517lP3vl9APxlV4eR?usp=sharing
 
 #### 🔵 **Expert Model**
-- **Image-based Colab Link:** [Insert Colab Link]
-- **Text-based Colab Link:** [Insert Colab Link]
+- **Image-based Colab Link:** https://colab.research.google.com/drive/173Qj8b5ywnxmZTyZmnauCif6haqEIuea?usp=sharing
+- **Text-based Colab Link:** https://colab.research.google.com/drive/14jqAY6g5GF9QTATecPhAuUSOJMZ8JSUP?usp=sharing
 
 
 #### **Keras Hub Video:** [Insert YouTube Link]
