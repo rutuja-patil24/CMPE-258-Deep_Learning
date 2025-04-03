@@ -6,40 +6,29 @@ This repository contains AI-based experiments using **Google's Teachable Machine
 
 ---
 
-## 🚀 1. Teachable Machine Projects
-
-### Task:
-- Implement **three unique models** using [Google’s Teachable Machine](https://teachablemachine.withgoogle.com/).
-- Explore different modalities: **audio, image, and video-based machine learning models**.
-- Train and test models using **custom datasets**.
-
-### Implementations:
+## 1. Teachable Machine Projects
 
 ####  **Image Classification Model**
 - **Objective:** Train a model to classify different objects based on images.
 
+- Image Model Link : https://teachablemachine.withgoogle.com/models/Cv-DzmIcB/
+
 ####  **Audio Classification Model**
 - **Objective:** Build a model that can classify text inputs based on predefined categories.
+  
+- Audio Model Link : https://teachablemachine.withgoogle.com/models/pfSNQ9Q1D/
 
 ####  **Video-based Action Recognition Model**
 - **Objective:** Use Teachable Machine to classify different human activities in a video.
 
+- Pose Model Link : https://teachablemachine.withgoogle.com/models/MjL6sdnAD/
+
   
-#### **Teachable Machine Projects Video:** [Insert YouTube Link]
+#### **Teachable Machine Projects Video:** [https://youtu.be/teC6Mwm7MbE]
 
 ---
 
-## 🧠 2. Keras Hub - Image & Text Model Variations
-
-### Task:
-- Implement **four variations** of **Keras Hub models**:
-  - **Easy**
-  - **Intermediate**
-  - **Advanced**
-  - **Expert**
-- Each model should be executed in **separate Google Colab notebooks** and explained via **YouTube videos**.
-
-### Implementations:
+## 2. Keras Hub - Image & Text Model Variations
 
 #### 🟢 **Easy Model**
 - **Image-based Colab Link:** https://colab.research.google.com/drive/1xhIdKUH0QUIv8svBZdIHvtO82mNvX0Xg?usp=sharing
