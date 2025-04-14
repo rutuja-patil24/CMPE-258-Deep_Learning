@@ -63,7 +63,7 @@ This repository contains multiple Colab notebooks demonstrating generalization a
 
 ## 📹 Demo Video Playlist
 
-- YouTube Link: _coming soon (1-min walkthroughs for each Colab)_
+- YouTube Link: https://youtu.be/NkHWByY-6wc
 
 ---
 
