@@ -50,7 +50,7 @@ This repository contains multiple Colab notebooks demonstrating the same 3-layer
 
 ## 📹 Demo Video (Optional)
 
-- YouTube Link: https://youtu.be/NkHWByY-6wc
+- YouTube Link: https://youtu.be/sSO63mdE0ZQ
 
 ---
 
