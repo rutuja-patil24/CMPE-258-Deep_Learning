@@ -58,7 +58,7 @@ Dataset: EmpatheticDialogues, Mental Health QA
 Objective: Build a safe, supportive conversational AI
 Tools: Unsloth with OpenChat template
 
-- Colab Link: https://colab.research.google.com/drive/1faXDCrutStPdt43JiI0Hd57mEdufkRA6?usp=sharing
+- Colab Link: https://colab.research.google.com/drive/1N2ATLJezR7wOQ7C26CwcNNINBaFpqoqn?usp=sharing
 
 
 ---
