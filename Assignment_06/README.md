@@ -25,6 +25,9 @@ We used Unsloth’s continued pretraining feature to make an LLM understand a lo
 Implemented several experiments combining chat templates and fine-tuning strategies:
 
 Classification with Chat Templates
+
+- Colab Link: https://colab.research.google.com/drive/10CtN2HMid-emcLVrZ-tZXxzKM_WZLmXB?usp=sharing
+  
 Conversational Fine-Tuning with Alpaca Format
 Context Window Extension for TinyLLaMA
 Multi-Task Fine-Tuning: Using datasets from multiple tasks for a single training run
