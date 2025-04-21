@@ -48,12 +48,12 @@ We implemented both ORPO (Online Reinforcement Preference Optimization) and DPO 
 
 ### Part E: Continued Fine-Tuning from Custom Checkpoints
 Explored the advanced scenario of resuming fine-tuning from a custom checkpoint:
-Base Model: LLaMA 3 or Phi-3
+Base Model: LLaMA 3 
 Checkpoint: Custom SFT model from previous runs
 Use Case: Domain-specific dialogue enhancement
 
 
-- Colab Link: https://colab.research.google.com/drive/1faXDCrutStPdt43JiI0Hd57mEdufkRA6?usp=sharing
+- Colab Link: https://colab.research.google.com/drive/1YV4dMOBqGM6dn8YwfOlremI6oi_q28Bs?usp=sharing
   
 ---
 
