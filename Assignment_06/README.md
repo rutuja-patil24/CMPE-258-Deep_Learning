@@ -36,7 +36,9 @@ Multi-Task Fine-Tuning: Using datasets from multiple tasks for a single training
 ### Part D: Reward Modeling with ORPO and DPO
 We implemented both ORPO (Online Reinforcement Preference Optimization) and DPO (Direct Preference Optimization) reward modeling using Unsloth.
 
-- Colab Link: https://colab.research.google.com/drive/1faXDCrutStPdt43JiI0Hd57mEdufkRA6?usp=sharing
+01) orpo_reward_modeling:
+
+- Colab Link: https://colab.research.google.com/drive/1VG-JKBV89KGSn-r97wsB1z6hszvwYy-f?usp=sharing
 
 ---
 
