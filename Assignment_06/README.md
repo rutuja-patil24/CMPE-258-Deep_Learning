@@ -10,7 +10,7 @@ This repository contains a comprehensive exploration of fine-tuning and continue
 ### Part A: Fine-tuning – 4 Unique Use Cases
 We fine-tuned four LLMs on different task varieties using Unsloth, each with an appropriate dataset and chat model template.
 
-- Colab Link: https://colab.research.google.com/drive/1N2ATLJezR7wOQ7C26CwcNNINBaFpqoqn?usp=sharing
+- Colab Link: https://colab.research.google.com/drive/1JlQPv-SYl9JMnfiyNMSnUMvQ148Ke8jB?usp=sharing
 
 ---
 
