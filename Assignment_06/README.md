@@ -29,8 +29,14 @@ Classification with Chat Templates
 - Colab Link: https://colab.research.google.com/drive/10CtN2HMid-emcLVrZ-tZXxzKM_WZLmXB?usp=sharing
   
 Conversational Fine-Tuning with Alpaca Format
+
+-Colab Link: https://colab.research.google.com/drive/1lxj1k4PwL6kNXdBFI6ml8Oakj-hrCx8g?usp=sharing
+
 Context Window Extension for TinyLLaMA
-Multi-Task Fine-Tuning: Using datasets from multiple tasks for a single training run
+
+- Colab Link: https://colab.research.google.com/drive/18nOuelbT9TdJVocDRpr2pasuzHmsihss?usp=sharing
+  
+  Multi-Task Fine-Tuning: Using datasets from multiple tasks for a single training run
 
 - Colab Link: https://colab.research.google.com/drive/1roX4eykecRYjv5w6Nuj5HyCaYUPJpwD6?usp=sharing
 
