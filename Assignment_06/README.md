@@ -30,21 +30,21 @@ We used Unsloth’s continued pretraining feature to make an LLM understand a lo
 ### Part C: Chat Templates and Experimental Colabs
 Implemented several experiments combining chat templates and fine-tuning strategies:
 
-1)Classification with Chat Templates
+1) Classification with Chat Templates:
 
 - Colab Link: https://colab.research.google.com/drive/10CtN2HMid-emcLVrZ-tZXxzKM_WZLmXB?usp=sharing
   
-2)Conversational Fine-Tuning with Alpaca Format
+2) Conversational Fine-Tuning with Alpaca Format:
 
 - Colab Link: https://colab.research.google.com/drive/1lxj1k4PwL6kNXdBFI6ml8Oakj-hrCx8g?usp=sharing
 
-3)Context Window Extension for TinyLLaMA
+3) Context Window Extension for TinyLLaMA:
 
 - Colab Link: https://colab.research.google.com/drive/18nOuelbT9TdJVocDRpr2pasuzHmsihss?usp=sharing
   
-4)Multi-Task Fine-Tuning: Using datasets from multiple tasks for a single training run
+4) Multi-Task Fine-Tuning: Using datasets from multiple tasks for a single training run:
 
-- Colab Link: https://colab.research.google.com/drive/1roX4eykecRYjv5w6Nuj5HyCaYUPJpwD6?usp=sharing
+- Colab Link: https://colab.research.google.com/drive/1vDjhX1luZ9LXa0s41IRw3JpDZ9EHpiiL?usp=sharing
 
 ---
 
