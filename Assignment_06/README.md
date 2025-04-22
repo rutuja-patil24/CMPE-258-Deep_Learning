@@ -18,6 +18,10 @@ We fine-tuned four LLMs on different task varieties using Unsloth, each with an 
 
 - Colab Link: https://colab.research.google.com/drive/1lOEumeR9nVJHCs8lHr-zqlmYg0_61hfj?usp=sharing
 
+3) Sentiment Classification UseCase (Qwen-0.5B-Chat):
+
+- Colab Link: https://colab.research.google.com/drive/1limuoqbY_83Plz4jRZbegNkXDpXZmvZn?usp=sharing
+
 ---
 
 ### Part B: Continued Pretraining – Learning a New Language
