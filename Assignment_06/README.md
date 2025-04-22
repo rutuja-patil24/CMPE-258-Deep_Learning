@@ -22,6 +22,10 @@ We fine-tuned four LLMs on different task varieties using Unsloth, each with an 
 
 - Colab Link: https://colab.research.google.com/drive/1limuoqbY_83Plz4jRZbegNkXDpXZmvZn?usp=sharing
 
+4) Summarization UseCase (LLaMA 2):
+   
+- Colab Link: https://colab.research.google.com/drive/13KpEzX56a-GgyJ07mk1Yi-20675-FJlC?usp=sharing
+
 ---
 
 ### Part B: Continued Pretraining – Learning a New Language
