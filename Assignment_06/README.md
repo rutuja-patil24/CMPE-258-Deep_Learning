@@ -10,7 +10,13 @@ This repository contains a comprehensive exploration of fine-tuning and continue
 ### Part A: Fine-tuning – 4 Unique Use Cases
 We fine-tuned four LLMs on different task varieties using Unsloth, each with an appropriate dataset and chat model template.
 
+1) Chat UseCase (Finetuning TinyLlama):
+
 - Colab Link: https://colab.research.google.com/drive/1EVOxgaJhmhh4xhOT5TnOg1dEcaNd2R8c?usp=sharing
+
+2) Coding UseCase (Finetuning Phi-3):
+
+- Colab Link: https://colab.research.google.com/drive/1lOEumeR9nVJHCs8lHr-zqlmYg0_61hfj?usp=sharing
 
 ---
 
