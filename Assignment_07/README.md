@@ -12,10 +12,10 @@ This repository contains multiple Colab notebooks demonstrating generalization a
 - Colab Link: https://colab.research.google.com/drive/1BWpU48prdkCaIe2jNZwD1YaddCKWXcbu?usp=sharing
 
 ### 2. Dropout vs Monte Carlo Dropout
-- Colab Link: https://colab.research.google.com/drive/1YujLQCNscyojdSnVYUOLT8GjI-JBVdPR?usp=sharing
+- Colab Link: https://colab.research.google.com/drive/1YujLQCNscyojdSnVYUOLT8Gjl-JBVdPR?usp=sharing
 
 ### 3. EarlyStopping + TensorBoard
-- Colab Link: https://colab.research.google.com/drive/1quBXisB4vSEqeirS3oJ4P8VOXeiswXTR?usp=sharing
+- Colab Link: https://colab.research.google.com/drive/1quBXisB4vSEqejrS3oJ4P8VOXeiswXTR?usp=sharing
 
 ### 4. Initialization Strategies
 - Colab Link: https://colab.research.google.com/drive/198910i5fD-Tm3rTGmakaVTaqi-tiCyQ_?usp=sharing
