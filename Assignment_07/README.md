@@ -4,8 +4,6 @@ This repository contains multiple Colab notebooks demonstrating generalization a
 
 ---
 
----
-
 ## Generalization Techniques (Part 1):
 
 ### 1. L1 and L2 Regularization
