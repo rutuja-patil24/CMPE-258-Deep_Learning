@@ -63,7 +63,10 @@ This repository contains multiple Colab notebooks demonstrating generalization a
 - Colab Link: https://colab.research.google.com/drive/1ErhjQ6QbDSqaf5Xov9EhGG35bxnV9iao?usp=sharing
 
 ---
+### Demo Video Part 1: 
 
+YouTube Video Link : https://youtu.be/UgUigm_C41E
+---
 ## Advanced Keras Deep Learning Constructs (Part 2):
 
 ### 1. Custom Learning Rate Scheduler
