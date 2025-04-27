@@ -106,7 +106,7 @@ We demonstrate how to export a fine-tuned Unsloth model to Ollama and run chat i
 ### Demo Video:
 
 
-- YouTube Video Link: https: https://youtu.be/q3JzcdSDRs4
+- YouTube Video Link: https://youtu.be/q3JzcdSDRs4
 
 
 ---
