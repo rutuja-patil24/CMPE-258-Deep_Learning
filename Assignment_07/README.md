@@ -104,3 +104,9 @@ This repository contains multiple Colab notebooks demonstrating generalization a
 - Colab Link: https://colab.research.google.com/drive/1rBHvE-_gitC3eYVSs2wE_2FbZiD2niQr?usp=sharing
 
 ---
+
+## Demo Video Part 2: 
+
+### YouTube Video Link : https://youtu.be/d0ca4bKi5v4
+
+---
