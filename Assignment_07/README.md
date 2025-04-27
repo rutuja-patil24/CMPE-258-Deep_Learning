@@ -62,12 +62,6 @@ This repository contains multiple Colab notebooks demonstrating generalization a
 
 ---
 
-## Demo Video Part 1: 
-
-### YouTube Video Link : https://youtu.be/UgUigm_C41E
-
----
-
 ## Advanced Keras Deep Learning Constructs (Part 2):
 
 ### 1. Custom Learning Rate Scheduler
@@ -102,6 +96,14 @@ This repository contains multiple Colab notebooks demonstrating generalization a
 
 ### 11. Custom Training Loop (GradientTape)
 - Colab Link: https://colab.research.google.com/drive/1rBHvE-_gitC3eYVSs2wE_2FbZiD2niQr?usp=sharing
+
+---
+
+
+
+## Demo Video Part 1: 
+
+### YouTube Video Link : https://youtu.be/UgUigm_C41E
 
 ---
 
