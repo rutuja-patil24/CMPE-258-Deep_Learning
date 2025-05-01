@@ -124,7 +124,7 @@ https://colab.research.google.com/drive/1pTwhxRHNww3No8Phc1Fb6EfUxn-R8sPz?usp=sh
 
 ## 📹 Demo Walkthrough Videos
 
-- 🎥YouTube Playlist: [TBD - Add when available]
+- 🎥YouTube Playlist: https://youtu.be/d0ca4bKi5v4
 
 ---
 
