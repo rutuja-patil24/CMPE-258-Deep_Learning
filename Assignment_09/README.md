@@ -95,13 +95,19 @@ https://colab.research.google.com/drive/1_6BzQkJmzZNkFDNYW0hm-dOjRcdT7VRa?usp=sh
 
 
 ### b) Fashion MNIST  
+
+🔗 **Colab Link**:  
+https://colab.research.google.com/drive/1I0d04oweXxDbTzD7DxkYdPyQWxVEX_eR?usp=sharing
+
 ### c) CIFAR-10  
 
 - Includes comparisons with SOTA models: ConvNeXt V2 and MLP-Mixer
 - Shows both frozen and fine-tuned performance
 
 🔗 **Colab Link**:  
-https://colab.research.google.com/drive/1YZM6rLvNUZ6GC2cyABj32MJv9ThcHRhC?usp=sharing
+
+https://colab.research.google.com/drive/1I0d04oweXxDbTzD7DxkYdPyQWxVEX_eR?usp=sharing
+
 
 ---
 
