@@ -89,6 +89,11 @@ https://colab.research.google.com/drive/1ephOE-GzZ6640I0oIHMNsfXYCaYO6cQR?usp=sh
 Demonstrates BiT and EfficientNet across 3 standard vision benchmarks:
 
 ### a) MNIST  
+
+🔗 **Colab Link**:  
+https://colab.research.google.com/drive/1_6BzQkJmzZNkFDNYW0hm-dOjRcdT7VRa?usp=sharing
+
+
 ### b) Fashion MNIST  
 ### c) CIFAR-10  
 
@@ -108,7 +113,7 @@ https://colab.research.google.com/drive/1YZM6rLvNUZ6GC2cyABj32MJv9ThcHRhC?usp=sh
 - Dataset: Chest X-rays
 
 🔗 **Colab Link**:  
-https://colab.research.google.com/drive/1PVtrGTlS62CqKZeFk5P9RUWbqSHwVXJl?usp=sharing
+https://colab.research.google.com/drive/10iUk56ka-HUJ7KAWqxPRX1x39jof9021?usp=sharing
 
 ---
 
@@ -118,7 +123,7 @@ https://colab.research.google.com/drive/1PVtrGTlS62CqKZeFk5P9RUWbqSHwVXJl?usp=sh
 - Dataset: Lung CT scans
 
 🔗 **Colab Link**:  
-https://colab.research.google.com/drive/1pTwhxRHNww3No8Phc1Fb6EfUxn-R8sPz?usp=sharing
+https://colab.research.google.com/drive/1HIWo5N4gR3Nhsg6TFMspyBXYibi-4jf2?usp=sharing
 
 ---
 
