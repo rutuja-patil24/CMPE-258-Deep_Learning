@@ -101,12 +101,11 @@ https://colab.research.google.com/drive/1I0d04oweXxDbTzD7DxkYdPyQWxVEX_eR?usp=sh
 
 ### c) CIFAR-10  
 
+🔗 **Colab Link**:  
+https://colab.research.google.com/drive/157vpZkgt7CPXlPXkJUkjewT4gpIgYpKx?usp=sharing
+
 - Includes comparisons with SOTA models: ConvNeXt V2 and MLP-Mixer
 - Shows both frozen and fine-tuned performance
-
-🔗 **Colab Link**:  
-
-https://colab.research.google.com/drive/1I0d04oweXxDbTzD7DxkYdPyQWxVEX_eR?usp=sharing
 
 
 ---
