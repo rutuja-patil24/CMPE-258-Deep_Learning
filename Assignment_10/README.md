@@ -39,5 +39,5 @@ This notebook demonstrates:
 
 ---
 
-## YouTube Link: https://youtu.be/d0ca4bKi5v4
+- YouTube Link: https://youtu.be/d0ca4bKi5v4
 
