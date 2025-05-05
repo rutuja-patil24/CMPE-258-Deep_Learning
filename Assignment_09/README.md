@@ -35,7 +35,7 @@ https://colab.research.google.com/drive/1B9gxi8iWaCmmzgJKChZ37gqPj1x2P2ur?usp=sh
 - Task: Predict sound class from uploaded `.wav` files
 
 🔗 **Colab Link**:  
-https://colab.research.google.com/drive/1q8pd2E1hhoVMEH3Z1bw1JXqBGs6C-rKn?usp=sharing
+https://colab.research.google.com/drive/1OHNM4NtQlQYoKmd3g3Kk--PwHTkb09aQ?usp=sharing
 
 ---
 
