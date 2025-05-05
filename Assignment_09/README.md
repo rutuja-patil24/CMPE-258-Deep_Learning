@@ -46,18 +46,7 @@ https://colab.research.google.com/drive/1OHNM4NtQlQYoKmd3g3Kk--PwHTkb09aQ?usp=sh
 - Task: Zero-shot or fine-tuned action classification
 
 🔗 **Colab Link**:  
-https://colab.research.google.com/drive/1Oc8TPXJWhDdTlgPSw7z5tr-3ENlLvvff?usp=sharing
-
----
-
-###  NLP Sentiment Classification
-
-- Models: BERT (TFHub), USE
-- Dataset: IMDB movie reviews
-- Task: Binary sentiment classification
-
-🔗 **Colab Link**:  
-https://colab.research.google.com/drive/1vD7JTO-pX-JUQXM6Y9IQEnahPR0GJ4Vm?usp=sharing
+https://colab.research.google.com/drive/1K5lkX4Yh1lWAXCF5R9k4kYtxbANXuPAS?usp=sharing
 
 ---
 
