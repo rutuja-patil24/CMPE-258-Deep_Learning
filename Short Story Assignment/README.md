@@ -40,9 +40,8 @@ The paper introduces a **three-level technical classification** of personalizati
 
 ## 🎞️ Presentation Video
 
-📺 **Watch the video (20 mins):**  
+📺 **Watch video here:**  
 👉 [YouTube Walkthrough](https://youtu.be/your-video-link)  
-> A narrated presentation covering the taxonomy, techniques, key visuals, and future directions from the survey.
 
 ---
 
