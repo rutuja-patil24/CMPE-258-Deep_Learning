@@ -39,7 +39,7 @@ The paper introduces a **three-level technical classification** of personalizati
 
 📺 **Watch video here:** 
 
-👉 [YouTube Walkthrough](https://youtu.be/your-video-link)  
+👉 [YouTube Walkthrough](https://youtu.be/0ujDYuX8uZk)  
 
 ---
 
