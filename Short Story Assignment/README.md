@@ -48,7 +48,7 @@ The paper introduces a **three-level technical classification** of personalizati
 
 ## 📊 Slide Deck
 
-📑 **Access the slides**: 
-- [🖼️ SlideShare Link ](https://www.slideshare.net/slideshow/a-survey-of-personalized-large-language-models-pptx/278820883)
+📑 **Access the slides:** 
+👉 [SlideShare Link](https://www.slideshare.net/slideshow/a-survey-of-personalized-large-language-models-pptx/278820883)  
 
 ---
