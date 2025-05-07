@@ -4,11 +4,11 @@ This repository contains my individual assignment submission for the **Short Sto
 
 > **"A Survey of Personalized Large Language Models: Progress and Future Directions"**  
 > *Jiahong Liu, Zexuan Qiu, Zhongyang Li, Quanyu Dai, Jieming Zhu, Minda Hu, Menglin Yang, Irwin Kin*  
-> 📅 Published: February 2025 • 🔗 [arXiv:2502.11528](https://arxiv.org/abs/2502.11528)
+> Published: February 2025 • 🔗 [arXiv:2502.11528](https://arxiv.org/abs/2502.11528)
 
 ---
 
-## 📄 Paper Summary
+## Paper Summary
 
 This paper presents a comprehensive overview of **Personalized Large Language Models (PLLMs)** — foundation models that generate responses tailored to individual users using data such as user profiles, historical dialogues, preferences, and behaviors.
 
@@ -25,29 +25,28 @@ The paper introduces a **three-level technical classification** of personalizati
 - Insights into **challenges** such as privacy, user drift, long-term memory, and fairness
 - A forward-looking roadmap covering **edge-device personalization**, **multimodal alignment**, and **federated learning**
 
-> This work acts as a critical reference for building user-centric, adaptive, and trustworthy foundation models.
-
 ---
 
-## ✍️ Medium Article
+## Medium Article
 
 📖 **Read the article here**:  
-👉 [**Medium Article: Personalization in Large Language Models – A Survey Review**](https://medium.com/@rutujabhaskarrao.patil/personalized-large-language-models-a-new-horizon-for-human-ai-interaction-c8938794cbde)  
 
-> The article offers an intuitive, paraphrased, and image-rich walkthrough of the paper with simplified language, real-world applications, and my insights.
+👉 [**Medium Article: Personalization in Large Language Models – A Survey Review**](https://medium.com/@rutujabhaskarrao.patil/personalized-large-language-models-a-new-horizon-for-human-ai-interaction-c8938794cbde)  
 
 ---
 
-## 🎞️ Presentation Video
+## Presentation Video
 
-📺 **Watch video here:**  
+📺 **Watch video here:** 
+
 👉 [YouTube Walkthrough](https://youtu.be/your-video-link)  
 
 ---
 
-## 📊 Slide Deck
+## Slide Deck
 
 📑 **Access the slides:** 
+
 👉 [SlideShare Link](https://www.slideshare.net/slideshow/a-survey-of-personalized-large-language-models-pptx/278820883)  
 
 ---
