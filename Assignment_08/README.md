@@ -66,5 +66,7 @@ Each pattern above is also implemented using `crewai` with role-based delegation
 
 ## 📹 Demo Walkthrough Videos:
 
-- YouTube Link: 
+- YouTube Link:
+- CrewAI Video : https://youtu.be/woS4tGbyAOQ
+- LangGraph Video : https://youtu.be/llOUHhb2NZs
 
