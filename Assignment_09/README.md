@@ -1,4 +1,4 @@
-# Assignment 9 – Contrastive & Transfer Learning Across Modalities  
+# Assignment 9 – Computer vision(Contrastive & Transfer Learning Across Modalities)  
 This repository demonstrates advanced deep learning techniques including **supervised contrastive learning**, **zero-shot classification**, and **transfer learning** across multiple modalities such as **image, audio, video, and text** using TensorFlow, PyTorch, TFHub, and OpenAI CLIP.
 
 ---
@@ -123,7 +123,7 @@ https://colab.research.google.com/drive/1HIWo5N4gR3Nhsg6TFMspyBXYibi-4jf2?usp=sh
 
 ## 📹 Demo Walkthrough Videos
 
-- 🎥YouTube Playlist: https://youtu.be/d0ca4bKi5v4
+- 🎥YouTube Playlist: https://youtu.be/_CgO2JLY32M
 
 ---
 
